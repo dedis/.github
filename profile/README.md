@@ -14,3 +14,10 @@ Switzerland.
 🎯 Our research topics span across blockchain technologies, zero-trust
 applications, decentralized financial systems, and secure and privacy-preserving
 technologies.
+
+🧑‍💻 Core and on-going DEDIS projects can be found in the
+<a href="https://github.com/dedis/repos"><code>dedis</code> GitHub org</a>.
+
+🧑‍🎓 Past student projects can be found in the
+<a href="https://github.com/dedis-students"><code>dedis-students</code> GitHub
+org</a>.
